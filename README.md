@@ -1,7 +1,6 @@
 ### TODO
 
 - [ ] Draft Publication
-
 - [ ] Development Branch
 - [ ] Sitemap
 - [ ] Image in img folder / files for files (eg.pdf,doc)
