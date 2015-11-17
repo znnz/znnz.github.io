@@ -3,7 +3,7 @@
 - [ ] Draft Publication
 - [ ] Development Branch
 - [ ] Sitemap
-- [ ] Image in img folder / files for files (eg.pdf,doc)
+- [X] Image in img folder / files for files (eg.pdf,doc)
 - [ ] Font Awesome
 - [X] Favicon
 - [ ] Optimize Mobile & Desktop
